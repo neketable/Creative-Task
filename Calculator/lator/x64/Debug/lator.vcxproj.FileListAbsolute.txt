@@ -1,0 +1,3 @@
+C:\Users\lenovo\source\repos\lator\lator\x64\Debug\lator.vcxprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\lator\lator\x64\Debug\lator.MyForm.resources
+C:\Users\lenovo\source\repos\lator\lator\x64\Debug\lator.vcxproj.GenerateResource.cache

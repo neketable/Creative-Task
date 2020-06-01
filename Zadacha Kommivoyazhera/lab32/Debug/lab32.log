@@ -1,0 +1,44 @@
+﻿  main32.cpp
+  open.cpp
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(106,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(109,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(161,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(162,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(312,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(333,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(340,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(353,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(355,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(370,32): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(371,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(378,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(380,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(395,32): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(396,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(403,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(405,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(420,34): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(420,21): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(421,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(428,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(430,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(445,32): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(446,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(454,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(456,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(471,32): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(472,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(505,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(517,27): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(549,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(550,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(554,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(555,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(559,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(559,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(594,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(595,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(721,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\lenovo\source\repos\lab32\lab32\open.cpp(783,33): warning C4305: аргумент: усечение из "double" в "GLclampf"
+  Создание кода...
+  lab32.vcxproj -> C:\Users\lenovo\source\repos\lab32\Debug\lab32.exe

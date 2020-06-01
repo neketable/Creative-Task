@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+LINK : error LNK2001: неразрешенный внешний символ _Main.
+C:\Users\lenovo\source\repos\lator\Debug\lator.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

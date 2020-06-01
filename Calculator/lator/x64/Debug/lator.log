@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\lenovo\source\repos\lator\lator\MyForm.h(1035,26): warning C4101: e1: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lator.vcxproj -> C:\Users\lenovo\source\repos\lator\x64\Debug\lator.exe
